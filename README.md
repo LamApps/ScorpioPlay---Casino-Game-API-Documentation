@@ -1,6 +1,6 @@
-# 🏗 MegaNodes API — The Complete Casino Integration Framework
+# 🏗 Scorpio Play API — The Complete Casino Integration Framework
 
-**MegaNodes API** is a modern RESTful API designed to power **online casinos, iGaming platforms, and affiliate operators** with seamless connectivity between players, wallets, and game providers.
+**Scorpio Play API** is a modern RESTful API designed to power **online casinos, iGaming platforms, and affiliate operators** with seamless connectivity between players, wallets, and game providers.
 
 Built for performance, stability, and global scale, the API simplifies complex gaming integrations into easy-to-use JSON endpoints — helping developers **launch full casino environments faster than ever**.
 
@@ -8,7 +8,7 @@ Built for performance, stability, and global scale, the API simplifies complex g
 
 ## 🚀 Overview
 
-With the **MegaNodes v4 endpoints**, you can handle every core operation of a gaming platform — from:
+With the **Scorpio Play v4 endpoints**, you can handle every core operation of a gaming platform — from:
 
 - Creating users  
 - Managing player balances  
@@ -27,7 +27,7 @@ Whether you run a **single-brand casino** or a **multi-tenant gaming network**, 
 
 ## 🔐 Security & Compatibility
 
-MegaNodes API uses **Bearer token authentication** for all requests, ensuring secure communication between systems.
+Scorpio Play API uses **Bearer token authentication** for all requests, ensuring secure communication between systems.
 
 It’s compatible with popular backend environments like:
 
@@ -41,7 +41,7 @@ This makes it ideal for developers building wallet systems, game aggregators, or
 
 ## 🎰 Supported Game Providers
 
-MegaNodes API connects your platform to a powerful lineup of **leading global casino content providers**, all through a **single integration layer**.
+Scorpio Play API connects your platform to a powerful lineup of **leading global casino content providers**, all through a **single integration layer**.
 
 Each provider brings its own catalog of **slots**, **live dealer tables**, and **specialty games**, giving operators full flexibility to curate an engaging and profitable gaming experience.
 
@@ -68,7 +68,7 @@ Each provider brings its own catalog of **slots**, **live dealer tables**, and *
 
 ## 🌍 Global Reach, Localized Delivery
 
-All providers are seamlessly connected under the **MegaNodes API’s `/v4/game/` endpoints**, allowing your platform to:
+All providers are seamlessly connected under the **Scorpio Play API’s `/v4/game/` endpoints**, allowing your platform to:
 
 - Fetch full provider lists dynamically  
 - Retrieve localized game titles and metadata for each language  
@@ -91,7 +91,7 @@ This unified integration architecture means you can manage **10,000+ games** fro
 
 ## 🧠 Summary
 
-MegaNodes API is your **all-in-one casino integration framework**, built to streamline connections between your platform, players, and global game providers — ensuring **security**, **speed**, and **scalability** every step of the way.
+Scorpio Play API is your **all-in-one casino integration framework**, built to streamline connections between your platform, players, and global game providers — ensuring **security**, **speed**, and **scalability** every step of the way.
 
 ---
 
